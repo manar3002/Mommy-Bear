@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MommyBearGraduationProject\\MommyBearGraduationProject.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\..\\Project\\Project\\User.Management.APIFabricHouses\\User.Management.API\\User.Management.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
